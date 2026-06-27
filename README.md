@@ -1,29 +1,26 @@
-# Hola, soy Yassin Farkhani
+# Hola, soy Yassin
 
 Estudiante de Ingeniería Informática en la Universidad de Huelva, con mención en Ingeniería del Software.
 
-Me interesan la ciberseguridad, el desarrollo backend, los sistemas, las redes y la arquitectura de software. Me gusta desarrollar proyectos personales para reforzar mis habilidades técnicas y ganar experiencia práctica más allá del aula.
+Actualmente estoy centrado en ampliar mis conocimientos mediante proyectos personales y en desarrollar una base sólida en ingeniería del software. Me interesan especialmente el desarrollo backend y frontend, la ciberseguridad, los sistemas, las redes y la arquitectura de software.
 
 ## Enfoque actual
 
 * Ingeniería del Software
+* Desarrollo Backend
+* Desarrollo Frontend
 * Ciberseguridad
-* Linux y redes
-* Desarrollo backend
-* Fundamentos de cloud y DevOps
+* Linux y Redes
+* Cloud y DevOps
 
 ## Objetivos
 
-* Construir una base sólida en ingeniería del software
-* Desarrollar proyectos relacionados con ciberseguridad
-* Ganar experiencia profesional tras finalizar el grado
-* Cursar un Máster en Ciberseguridad (!!)
+* Construir software escalable y mantenible.
+* Adquirir experiencia profesional como desarrollador.
+* Especializarme en ciberseguridad mediante un máster y proyectos prácticos.
+* Continuar aprendiendo nuevas tecnologías y buenas prácticas de ingeniería.
 
 ## Idiomas
 
 * Español (nativo)
 * Inglés (C1 certificado)
-
-## GitHub
-
-Este perfil contiene proyectos personales, académicos y experimentales creados para aprender, explorar nuevas tecnologías y mejorar como ingeniero.
